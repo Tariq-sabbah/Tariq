@@ -1,24 +1,49 @@
-# Compiled class file
-*.class
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>طارق صباح - مطور ويب</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { font-family: Tahoma, Arial, sans-serif; }
+        .hero { background: #007bff; color: white; padding: 60px 0; text-align: center; }
+        .section { padding: 40px 0; }
+    </style>
+</head>
+<body>
 
-# Log file
-*.log
+    <div class="hero">
+        <h1>مرحبا، أنا طارق صباح</h1>
+        <p>مطور ويب & Front-End</p>
+    </div>
 
-# BlueJ files
-*.ctxt
+    <div class="container section">
+        <h2>عنّي</h2>
+        <p>أنا مطور ويب من فلسطين، متخصص في HTML, CSS, JavaScript, React, Nodejs، وأسعى دائمًا لتعلم تقنيات جديدة وبناء حلول إبداعية.</p>
+    </div>
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+    <div class="container section">
+        <h2>مهاراتي</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript (ES6), Reactjs</li>
+            <li>Nodejs, Expressjs, MySQL</li>
+            <li>Bootstrap 5, Photoshop</li>
+        </ul>
+    </div>
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+    <div class="container section">
+        <h2>مشاريعي</h2>
+        <p>قريبًا سأضيف روابط لمشاريعي هنا.</p>
+    </div>
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+    <div class="container section">
+        <h2>تواصل معي</h2>
+        <p>📧 tariksabbah4@gmail.com</p>
+        <p>📱 0569910528</p>
+    </div>
+
+</body>
+</html>
+
+
